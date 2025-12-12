@@ -4,4 +4,4 @@ _Проєкт створиний за допомогою таких технол
 * HTML 
 * CSS
 * Java Script
-![Цей текст відобразиться, якщо зображення не завантажиться](https://nt.ua/blog/profession-front-end-developer)
+![Цей текст відобразиться, якщо зображення не завантажиться]([https://nt.ua/blog/profession-front-end-developer](https://nt.ua/Media/Default/img/profession-frontenf-dev_ua.png))
